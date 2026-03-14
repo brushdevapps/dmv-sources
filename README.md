@@ -1,6 +1,6 @@
 # Official DMV Driver Handbook Sources
 
-This page lists the official driver handbook sources used as reference material for **DMV Test Prep 2026** (Android app by [Brush Apps ]]
+This page lists the official driver handbook sources used as reference material for **DMV Test Prep 2026** (Android app by [Brush Trading](https://brushtrading.net)).
 
 All links point to official U.S. government (.gov) websites. Practice questions in the app are based on publicly available driver education materials published by each state's motor vehicle agency.
 
@@ -14,13 +14,13 @@ All links point to official U.S. government (.gov) websites. Practice questions 
 |-------|--------|-------------------|
 | Alabama | Alabama Law Enforcement Agency (ALEA) | [Driver License Manual (PDF)](https://www.alea.gov/sites/default/files/ALEA%20DL%20Manual.pdf) |
 | Alaska | Division of Motor Vehicles | [Driver Manual (PDF)](https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf) |
-| Arizona | AZ Dept. of Transportation / MVD | [Driver License Manual (PDF)](https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117.pdf) |
+| Arizona | AZ Dept. of Transportation / MVD | [Driver License Manual](https://azdot.gov/resources/arizona-driver-license-manual) |
 | Arkansas | Dept. of Finance & Administration | [Driver Exam & Manual Page](https://www.dfa.arkansas.gov/service/take-a-driver-exam/) |
-| California | Dept. of Motor Vehicles (DMV) | [California Driver Handbook (PDF)](https://www.dmv.ca.gov/portal/file/california-driver-handbook-pdf) |
+| California | Dept. of Motor Vehicles (DMV) | [California Driver Handbook](https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/) |
 | Colorado | Dept. of Revenue – Motor Vehicle | [Colorado Driver Handbook (PDF)](https://dmv.colorado.gov/sites/dmv/files/documents/DR_2337_Jan2025.pdf) |
 | Connecticut | Dept. of Motor Vehicles | [Driver's Manual (PDF)](https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf) |
 | Delaware | Division of Motor Vehicles | [Driver Manual (PDF)](https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf) |
-| Florida | Dept. of Highway Safety & Motor Vehicles | [Driver License Handbook (PDF)](https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf) |
+| Florida | Dept. of Highway Safety & Motor Vehicles | [Driver License Handbook](https://www.flhsmv.gov/resources/handbooks-manuals/) |
 | Georgia | Dept. of Driver Services (DDS) | [Georgia Driver's Manual (PDF)](https://dds.georgia.gov/document/publication/ga-drivers-manual/download) |
 | Hawaii | Dept. of Transportation (HDOT) | [Hawaii Driver's Manual (PDF)](https://hidot.hawaii.gov/highways/files/2021/11/ENGLISH-Original-Hawaii-Drivers-Manual.pdf) |
 | Idaho | Idaho Transportation Dept. (ITD) | [Driver Manual (PDF)](https://itd.idaho.gov/wp-content/uploads/2025/10/driver_manual.pdf) |
@@ -43,10 +43,10 @@ All links point to official U.S. government (.gov) websites. Practice questions 
 | New Hampshire | Division of Motor Vehicles | [Driver's Manual (PDF)](https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf) |
 | New Jersey | Motor Vehicle Commission (MVC) | [Driver Manual (PDF)](https://www.nj.gov/mvc/pdf/license/drivermanual.pdf) |
 | New Mexico | Motor Vehicle Division (MVD) | [Driver's License Manuals Page](https://www.mvd.newmexico.gov/mvd-drivers-license-manuals/) |
-| New York | Dept. of Motor Vehicles (DMV) | [Driver's Manual (PDF)](https://dmv.ny.gov/brochure/mv21.pdf) |
+| New York | Dept. of Motor Vehicles (DMV) | [Driver's Manual](https://dmv.ny.gov/new-york-state-drivers-manual-practice-tests) |
 | North Carolina | NCDMV / Dept. of Transportation | [Driver Handbook (PDF)](https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/driver-handbook.pdf) |
 | North Dakota | Dept. of Transportation (NDDOT) | [Noncommercial Driver License Manual (PDF)](https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf) |
-| Ohio | Bureau of Motor Vehicles (BMV) | [Driver Manual (PDF)](https://dam.assets.ohio.gov/image/upload/publicsafety.ohio.gov/hsy7607.pdf) |
+| Ohio | Bureau of Motor Vehicles (BMV) | [Driver Manual](https://www.bmv.ohio.gov/forms-general.aspx) |
 | Oklahoma | Dept. of Public Safety (DPS) | [Driver Manual Page](https://aem-prod.ok.gov/service/all-pages/driver-manual.html) |
 | Oregon | ODOT / Driver & Motor Vehicle Services | [Driver Manual (PDF)](https://www.oregon.gov/odot/forms/dmv/37.pdf) |
 | Pennsylvania | PennDOT / Driver & Vehicle Services | [PA Driver's Manual (PDF)](https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf) |
@@ -54,7 +54,7 @@ All links point to official U.S. government (.gov) websites. Practice questions 
 | South Carolina | Dept. of Motor Vehicles (SCDMV) | [Driver Manual Page](https://dmv.sc.gov/forms-and-manuals) |
 | South Dakota | Dept. of Public Safety (DPS) | [Driving Manuals Page](https://dps.sd.gov/driver-licensing/south-dakota-licensing-information/driving-manuals) |
 | Tennessee | Dept. of Safety & Homeland Security | [Driver License Manual (PDF)](https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf) |
-| Texas | Dept. of Public Safety (DPS) | [Driver Handbook (PDF)](https://www.dps.texas.gov/internetforms/Forms/DL-7.pdf) |
+| Texas | Dept. of Public Safety (DPS) | [Driver Handbook](https://www.dps.texas.gov/InternetForms/home/Details/304) |
 | Utah | Driver License Division (DLD) | [Driver Handbook (PDF)](https://dld.utah.gov/wp-content/uploads/Driver-Handbook.pdf) |
 | Vermont | Dept. of Motor Vehicles (DMV) | [Driver's License Manual (PDF)](https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf) |
 | Virginia | Dept. of Motor Vehicles (DMV) | [Driver's Manual (PDF)](https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf) |
